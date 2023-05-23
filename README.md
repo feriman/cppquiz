@@ -1,0 +1,2 @@
+# cppquiz
+C++ sketches
